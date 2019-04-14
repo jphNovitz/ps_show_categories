@@ -1,0 +1,21 @@
+/**
+ * css
+ */
+
+.item {
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+    height: 8rem ;
+    max-height: 8rem ;
+    margin: 0;
+    border: solid 1px #fff
+
+}
+
+.category_name {
+    background-color: #fff;
+    padding: .5rem 1rem;
+    position: absolute;
+    bottom: 0;
+    right: 1rem;
+}
